@@ -11,18 +11,18 @@
         "precio": 2000
       },
       {
-        "nombre": "chinin",
+        "nombre": "Panela",
         "precio": "800",
         "id": 3
       },
       {
-        "nombre": "chinin",
+        "nombre": "Costilla de cerdo",
         "precio": "8999",
         "id": 4
       },
       {
-        "nombre": "123",
-        "precio": "123",
+        "nombre": "carnde de res",
+        "precio": "4500",
         "id": 5
       }
     ]
